@@ -1,2 +1,3 @@
 # swc-cern-examole
 cok uykum var
+gecmiyor gecmiyor
